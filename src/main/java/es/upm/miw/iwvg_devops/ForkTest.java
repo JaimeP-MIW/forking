@@ -3,6 +3,6 @@ public class ForkTest {
     int hola;
 
     public ForkTest(){
-        hola = 2;
+        hola = 3;
     }
 }
